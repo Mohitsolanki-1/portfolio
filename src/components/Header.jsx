@@ -31,7 +31,7 @@ function Header() {
             Home
           </a>
           <a className="link" href="#services">
-            Sevices
+            Services
           </a>
           <a className="link" href="#experiences">
             Experience
