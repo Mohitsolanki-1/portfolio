@@ -34,7 +34,7 @@ function Header() {
             Services
           </a>
           <a className="link" href="#experiences">
-            Experience
+            Skills
           </a>
           <a className="link" href="#projects">
             Projects
@@ -57,7 +57,7 @@ function Header() {
           onClick={() => setActive(!active)}
           href="#experiences"
         >
-          Experience
+          Skills
         </a>
         <a className="link" onClick={() => setActive(!active)} href="#projects">
           Projects
