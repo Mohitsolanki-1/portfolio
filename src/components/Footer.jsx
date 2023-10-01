@@ -2,7 +2,7 @@
 import React from "react";  
 import {BiLogoGmail}  from 'react-icons/bi'
 import {FaLinkedin, FaGithub} from 'react-icons/fa'
-import {IoIosCreate}  from 'react-icons/io'
+// import {IoIosCreate}  from 'react-icons/io'
 
 function Footer() {
   return (
@@ -20,11 +20,7 @@ function Footer() {
             <FaGithub/>
           </a>
         </div>
-        <p className="copyright">
-          <i className="fas fa-heart"></i>
-          created a portfolio.
-          <IoIosCreate/>
-        </p>
+       
       </div>
     </footer>
   );

@@ -11,26 +11,26 @@ import { useState } from "react";
 function Projects() {
   const [projects] = useState([
     {
-      title: "Project 1",
+      title: "Brand_page",
 
       img: image1,
       gLink: "https://github.com/Mohitsolanki-1/Brand_page"
       
     },
     {
-      title: "Project 2",
+      title: "Todo",
       img: image2,
       gLink: "https://github.com/Mohitsolanki-1/Todo"
       
     },
     {
-      title: "Project 3",
+      title: "Unit_Converter",
       img: image3,
       gLink: "https://github.com/Mohitsolanki-1/javascript"
       
     },
     {
-      title: "Project 4",
+      title: "calculater",
       img: image4,
       gLink: "https://github.com/Mohitsolanki-1/calculator"
       

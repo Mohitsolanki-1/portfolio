@@ -50,7 +50,7 @@ function Header() {
           Home
         </a>
         <a className="link" onClick={() => setActive(!active)} href="#services">
-          Sevices
+          Services
         </a>
         <a
           className="link"
