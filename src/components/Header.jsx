@@ -33,7 +33,7 @@ function Header() {
           <a className="link" href="#services">
             Services
           </a>
-          <a className="link" href="#experiences">
+          <a className="link" href="#skills">
             Skills
           </a>
           <a className="link" href="#projects">
