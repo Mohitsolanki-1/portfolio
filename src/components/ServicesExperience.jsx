@@ -72,6 +72,18 @@ function ServicesExperience() {
             <div className="portfolio">
               <h4>Oops</h4>
               
+              </div>
+            <div className="portfolio">
+              <h4>DBMS</h4>
+            
+              </div>
+              <div className="portfolio">
+                <h4>Material UI</h4>
+
+                </div>
+              <div className="portfolio">
+                <h4>git & github</h4>
+
             </div>
           </div>
         </div>
