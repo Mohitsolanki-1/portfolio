@@ -16,7 +16,7 @@ function Banner() {
             I am Mohit Solanki, a proficient Frontend Developer with expertise in React and UI design. With a passion for crafting exceptional user experiences, I bring a creative flair to web development. 
             </p>
             <a className="btn" href="#projects">
-              About Me
+              About Work
             </a>
           </div>
         </div>

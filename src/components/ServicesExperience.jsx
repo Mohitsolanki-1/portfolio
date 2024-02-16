@@ -39,7 +39,7 @@ function ServicesExperience() {
           ))}
         </div>
         <div className="experiences" id="experiences">
-          <div className="experience">
+          <div className="experience"> 
             
             <p id="skills">My Skills</p>
           </div>

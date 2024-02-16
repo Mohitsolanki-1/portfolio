@@ -61,7 +61,7 @@ header .header-inner {
   height: 100%;
 }
 .header-inner .logo {
-  font-size: 30px;
+  font-size: 30px;  
   line-height: 40px;
   color: var(--red-text);
   font-weight: 900;

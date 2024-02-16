@@ -1,20 +1,21 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { useState } from "react";  
- import image1 from "../images/Brand_page.jpg" 
+ import image1 from "../images/Portfolio.jpg" 
  import image2 from "../images/Todo.png"
  import image3 from "../images/unitconverter.jpg"
- import image4 from "../images/calculater.jpg"
+ import image4 from "../images/contactmanage.png"  
+ 
  import {FaGithub } from 'react-icons/fa'
 
 
 function Projects() {
   const [projects] = useState([
     {
-      title: "Brand_page",
+      title: "Portfolio",
 
       img: image1,
-      gLink: "https://github.com/Mohitsolanki-1/Brand_page"
+      gLink: "https://github.com/Mohitsolanki-1/portfolio"
       
     },
     {
@@ -22,7 +23,8 @@ function Projects() {
       img: image2,
       gLink: "https://github.com/Mohitsolanki-1/Todo"
       
-    },
+    },  
+
     {
       title: "Unit_Converter",
       img: image3,
@@ -30,9 +32,9 @@ function Projects() {
       
     },
     {
-      title: "calculater",
+      title: "contact_manage",
       img: image4,
-      gLink: "https://github.com/Mohitsolanki-1/calculator"
+      gLink: "https://github.com/Mohitsolanki-1/contact_manage_app"
       
     },
     // {
