@@ -82,7 +82,7 @@ function ServicesExperience() {
 
                 </div>
               <div className="portfolio">
-                <h4>git & github</h4>
+                <h4>Git & Github</h4>
 
             </div>
           </div>
